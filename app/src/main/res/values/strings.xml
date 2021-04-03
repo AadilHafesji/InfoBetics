@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">InfoBetics</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+
+    <!--String to put inside Gender spinner-->
+    <string-array name="text">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+        <item>Prefer Not to Say</item>
+    </string-array>
+
+    <!--What is?-->
+    <string name="typeOne">
+        Type 1 diabetes, also known as insulin-dependent diabetes, is a chronic condition where the pancreas produces little or no insulin. Insulin is a hormone that is needed so that sugar (glucose) can enter the cells to produce energy. Also, it is a lifelong condition.
+        \n\nType 1 diabetes is commonly diagnosed within children, but it can develop at any age. Due to the reason, that type 1 diabetes causes loss of insulin within the body, it requires regular insulin management by injection or by insulin pump.
+        \n\nWith this form of diabetes, the body can not process the glucose you eat into the cells, this leaves a lot of glucose moving within the body.
+        \n\nAs a type 1 diabetic you can either have high blood sugar levels (Hyperglycemia) or low blood sugar levels (Hypoglycemia).
+        \n\nHyperglycemia is when your blood glucose is higher than the recommended number, if not treated quickly it can lead to major medical issues.
+        \n\nHypoglycemia is when your blood glucose is lower than the recommended number. This can be very dangerous if not treated quickly.
+    </string>
+
+    <string name="typeTwo">
+        Type 2 diabetes, also known as adult-onset diabetes, is a chronic condition and the most common type of diabetes, this is when the pancreas produces little insulin or when the body’s cells don’t react properly to the insulin that is being produced.
+        \n\nIf it is not controlled correctly, it can lead to high blood glucose levels, which can cause many different symptoms and lead to severe difficulties.
+        \n\nWith this form of diabetes, there are steps that can be taken to prevent or delay the advancement. The best way to manage this form of diabetes is to lose weight, eat well and exercise. If this isn’t enough, then you may need to take medication or have insulin therapy.
+    </string>
+
+    <string name="difference">
+        Both types of diabetes are chronic diseases that affect the way the body controls glucose. Glucose is the energy that the body’s cells need.
+        \n\nPeople who have type 1 diabetes don’t produce insulin and people who have type 2 diabetes don’t respond well enough to the insulin that is being produced.
+        \n\nBoth can lead to having high blood sugar levels, which can increase the risk of having complications.
+    </string>
+
+    <!--What are?-->
+    <string name="causes">
+        There is no clear cause as to why you get type 1 diabetes. However, it usually occurs when the body’s immune system incorrectly targets and kills the beta cells. These are cells within the pancreas which are needed to produce insulin.
+        \n\nWe all need insulin to stay alive, as it allows glucose that is in our blood to enter the cells which then fuels our bodies.
+        \n\nOther possible causes of type 1 diabetes are either genetics or coverage to viruses and other environmental factors.
+        \n\n<b><u>Genetics:</u></b>
+        \nThere is no clear reasoning as to how or why genetics plays a role to developing diabetes. But, if you have a parent or sibling with diabetes you have more of a change to having it yourself.
+        \n\nSome ethnic groups that have a high rate of diabetes are:
+        \n\n\u2022 African Americans.
+        \n\u2022 Asians.
+        \n\u2022 Hispanic Americans.
+        \n\u2022 Native Americans.
+        \n\u2022 Pacific Islanders.
+        \n\nConditions like cystic fibrosis and hemochromatosis can damage the pancreas, which can lead to a higher change of developing diabetes.
+    </string>
+
+    <string name="symptoms">
+        The most common symptoms of diabetes are:
+        \n\u2022 Frequently going to the toilet, particularly at night.
+        \n\u2022 Being thirsty a lot.
+        \n\u2022 Feeling tired.
+        \n\u2022 Extreme hunger.
+        \n\u2022 Loss of weight.
+        \n\u2022 Genital itching or thrush.
+        \n\u2022 Longer healing cuts and wounds.
+        \n\u2022 Blurred vision.
+        \n\u2022 Wetting the bed. Especially children who didn’t previously wet the bed in the night.
+        \n\u2022 Irritability and mood changes.
+        \n\nIf these symptoms do occur it is because some or all the glucose has stayed within the body and it hasn’t been used as a fuel for energy. The body does try to reduce blood glucose by flushing out the excess when you urinate.
+        \n\nIf you do have one or more of these symptoms then it is required that you visit you doctor as precaution, because early diagnosis, treatment and control can reduce the possibilities of developing life-threatening complications.
+    </string>
+
+    <string name="complications">
+        There are two types of complications – chronic and acute.
+        \n\nChronic complications are long term which develop gradually and can lead to serious issues if not checked.
+        \n\nAcute complications can occur at any time and can lead to many different complications.
+        \n\nChronic complications:
+        \n\u2022 Eyesight issues (Retinopathy).
+        \n\u2022 Foot problems.
+        \n\u2022 Heart attack and stroke.
+        \n\u2022 Kidney problems (Nephropathy).
+        \n\u2022 Nerve damage (Neuropathy).
+        \n\u2022 Gum disease.
+        \n\u2022 Skin conditions.
+        \n\u2022 Sexual problems in men and women.
+        \n\u2022 Pregnancy issues.
+        \n\nAcute complications:
+        \n\u2022 Hypoglycemia (Hypos).
+        \n\u2022 Hyperglycemia (Hypers).
+        \n\u2022 Diabetic Ketoacidosis (DKA).
+        \n\nThe main reason as to how these complications occur is when you have hight blood sugar levels. Which is why managing and looking after your blood sugar levels is very important.
+        \n\nOther reasons as why these complications occur is if you have high blood pressure, smoking and high cholesterol.
+        \n\nThese complications can seriously damage blood vessels and by these being damaged it can stop blood from traveling to the parts of the body where blood is needed.
+    </string>
+
+    <!--How to?-->
+    <string name="manageAndTreat">
+        Managing type 1 diabetes is very important. To get insulin into your blood, you need to inject it or use an insulin pump.
+        \n\nYou also need to make sure that you check your blood glucose levels regularly and make sure that the results are not unbalanced. This is important, as high glucose levels can lead to complications.
+        \n\nAnother way to manage your diabetes, is to regularly exercise. By regularly exercising it can help to balance out you blood glucose levels, but it is required to take a source of glucose such as, a banana, glucose tablets or anything sweet.
+        \n\nAlso, getting enough sleep is very important, as a lack of sleep can make it difficult to control your blood sugar levels. Furthermore, you should restrain from having too much takeaway food, as it can more issues to you.
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

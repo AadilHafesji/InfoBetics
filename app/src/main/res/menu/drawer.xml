@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/ic_home_black_24dp" />
+
+    <item
+        android:id="@+id/profile"
+        android:title="Profile"
+        android:icon="@drawable/ic_user" />
+
+    <item android:title="What is...">
+        <menu>
+            <item
+                android:id="@+id/typeOneDiabetes"
+                android:title="Type 1 Diabetes?" />
+
+            <item
+                android:id="@+id/typeTwoDiabetes"
+                android:title="Type 2 Diabetes?" />
+
+            <item
+                android:id="@+id/difference"
+                android:title="The difference between Type 1 and Type 2 Diabetes?" />
+        </menu>
+    </item>
+
+    <item android:title="What are...">
+        <menu>
+            <item
+                android:id="@+id/theCauses"
+                android:title="The causes of Type 1 Diabetes?" />
+
+            <item
+                android:id="@+id/theSymptoms"
+                android:title="The symptoms of Type 1 Diabetes?" />
+
+            <item
+                android:id="@+id/theComplications"
+                android:title="The complications of Type 1 Diabetes?" />
+        </menu>
+    </item>
+
+    <item android:title="How to...">
+        <menu>
+            <item
+                android:id="@+id/manage"
+                android:title="Manage and Treat Type 1 Diabetes?" />
+        </menu>
+    </item>
+
+    <item android:title="For You">
+        <menu>
+            <item
+                android:id="@+id/bloodGlucoseAndCarbohydrates"
+                android:title="Blood Glucose and Carbohydrates" />
+
+            <item
+                android:id="@+id/bloodGlucoseChart"
+                android:title="Blood Glucose Chart" />
+
+            <item
+                android:id="@+id/carbohydrateChart"
+                android:title="Carbohydrate Chart" />
+
+            <item
+                android:id="@+id/reminders"
+                android:title="Reminders"
+                android:icon="@drawable/ic_reminder" />
+
+            <item
+                android:id="@+id/insulin"
+                android:title="Insulin"
+                android:icon="@drawable/ic_treatment" />
+        </menu>
+    </item>
+
+    <item android:id="@+id/logout"
+        android:title="Logout"
+        android:icon="@drawable/ic_logout_black_24dp" />
+
+</menu>

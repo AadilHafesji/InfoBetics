@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "566507492880",
+    "firebase_url": "https://infobetics-42b91.firebaseio.com",
+    "project_id": "infobetics-42b91",
+    "storage_bucket": "infobetics-42b91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566507492880:android:1903c866ed4788c06edc95",
+        "android_client_info": {
+          "package_name": "com.example.infobetics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566507492880-dmqnr0smdt9rln599i8o9h9nlcgsvtq7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.infobetics",
+            "certificate_hash": "8ead977c63888f5baf436b3f46d0b79dc35f837a"
+          }
+        },
+        {
+          "client_id": "566507492880-525gb7ddg2qqkohi0rag54fct91r3poa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClZdfH0H-q-3_As5Oh_msKHNwF8M-q1pE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566507492880-525gb7ddg2qqkohi0rag54fct91r3poa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
