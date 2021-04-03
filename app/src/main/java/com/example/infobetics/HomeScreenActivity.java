@@ -85,7 +85,7 @@ public class HomeScreenActivity extends AppCompatActivity implements NavigationV
 
     @Override
     public boolean onNavigationItemSelected(@NonNull MenuItem menuItem) {
-        //Closing the Drawer
+        // Closing the Drawer
         drawerLayout.closeDrawer(GravityCompat.START);
 
         if (menuItem.getItemId() == R.id.home) {
